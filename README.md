@@ -1,5 +1,5 @@
-# harshit.11814354-lpu.in
-CSE316
+
+#CSE316 OS PROJECT
 CPU schedules N processes which arrive at different time intervals and each process is 
 allocated the CPU for a specific user input time unit, processes are scheduled using a preemptive 
 round robin scheduling algorithm. Each process must be assigned a numerical priority, with a 
